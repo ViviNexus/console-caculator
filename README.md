@@ -1,4 +1,4 @@
-# console-caculator
-Console based calculator supporting basic arthemtic operations.
+# console-calculator
+Console based calculator containing basic arthametic calculator and financial tools.
 language - Java 
 Code by - Vivi
